@@ -1,6 +1,6 @@
 # Heuristic Optimization Techniques
 
-### Arguments
+### Syllabus
 - Introduction to Optimization and Heuristics
 - Construction Heuristics
   * Beam Search
