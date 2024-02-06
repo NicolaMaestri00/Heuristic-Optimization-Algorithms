@@ -35,5 +35,6 @@
 
 #### Simple example: Particle Swarm Optimization
 
-![PSO](https://github.com/NicolaMaestri00/Heuristic-Optimization-Techniques-192.137/assets/104208237/1209d9a7-8a5f-49db-8610-7f9408a3ff82)
+![PSO_0](https://github.com/NicolaMaestri00/Heuristic-Optimization-Algorithms/assets/104208237/cfda947a-788e-46c7-9cd7-3c8a0bab2166)
+
 
