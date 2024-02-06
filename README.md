@@ -32,6 +32,7 @@
 ### Programming exercise
 - Assignment 1: Implementation and comparison of different Single-trajectory-based-strategies for Weighted s-plex Editing Problem (WsPEP)
 - Assignment 2: Implementation and tuning of Population-based methods and Hybrid approaches for Weighted s-plex Editing Problem (WsPEP)
+
 (Code developed by Matteo Migliarini and Nicola Maestri)
 
 #### Simple example: Particle Swarm Optimization
